@@ -1,0 +1,6 @@
+[book]
+authors = ["ysykzheng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Integrating AI into Energy Systems: Opportunities and Challenges"
