@@ -1,4 +1,4 @@
-Introduction: The Role of AI in Energy Systems
+The Role of AI in Energy Systems
 ==============================================
 
 The integration of Artificial Intelligence (AI) into energy systems is transforming the way we produce, distribute, and consume energy. AI can be used to optimize energy use, reduce waste, and increase efficiency while achieving sustainability goals.

@@ -1,4 +1,4 @@
-Introduction: What You Can Expect from This Book
+What You Can Expect from This Book
 ================================================
 
 The integration of Artificial Intelligence (AI) into energy systems presents significant opportunities for organizations to optimize energy use, reduce waste, and increase efficiency. At the same time, there are challenges associated with implementing AI in energy systems, including ethical considerations and practical limitations.
