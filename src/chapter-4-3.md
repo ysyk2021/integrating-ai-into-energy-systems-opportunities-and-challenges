@@ -2,13 +2,6 @@
 
 As energy systems become more complex and decentralized, there is a growing need for personalized energy management solutions that can adapt to individual needs and preferences. In this chapter, we will explore how machine learning-powered virtual assistants can be used to optimize energy systems and drive more efficient and sustainable energy use.
 
-What is Machine Learning?
--------------------------
-
-Machine learning is a subset of artificial intelligence (AI) that involves training algorithms on large datasets to identify patterns and relationships between variables. Once trained, these algorithms can be used to make predictions or classifications on new data.
-
-In the context of energy management, machine learning can be used to analyze large datasets of energy usage data to identify patterns in consumption and predict future energy needs.
-
 Machine Learning-Powered Virtual Assistants for Energy System Optimization
 --------------------------------------------------------------------------
 
