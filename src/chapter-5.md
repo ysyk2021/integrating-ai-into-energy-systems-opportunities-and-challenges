@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Sustainability with AI
-===========================================
 
 As the world faces increasing pressure to address climate change and reduce carbon emissions, there is a growing need for sustainable energy solutions. In this chapter, we will explore how AI technologies can be leveraged to enhance sustainability efforts.
 

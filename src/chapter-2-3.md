@@ -1,4 +1,3 @@
-# Examples of Successful Implementation of AI in Energy Systems
 
 Artificial Intelligence (AI) is becoming an increasingly important tool for optimizing energy systems. In this chapter, we will explore the basics of AI and its applications in energy systems, as well as examples of successful implementation of AI in energy systems.
 

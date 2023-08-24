@@ -1,5 +1,3 @@
-Chapter 3: Leveraging Machine Learning for Personalized Energy Management
-=========================================================================
 
 As energy systems become more complex and decentralized, there is a growing need for personalized energy management solutions that can adapt to individual needs and preferences. In this chapter, we will explore different ways in which machine learning can be leveraged to achieve personalized energy management.
 

@@ -1,5 +1,3 @@
-Chapter 2: Designing Your AI-Powered Energy System Strategy
-===========================================================
 
 Creating a personalized energy system strategy that incorporates AI-powered tools is an essential step for any business looking to optimize their energy usage. In this chapter, we will explore the steps for creating a personalized energy system strategy and integrating AI-powered tools to optimize energy usage.
 

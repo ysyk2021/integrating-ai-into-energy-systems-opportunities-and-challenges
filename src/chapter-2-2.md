@@ -1,4 +1,3 @@
-# Common Applications of AI in Energy Systems, Including Demand Response and Predictive Maintenance
 
 Artificial Intelligence (AI) is becoming an increasingly important tool for optimizing energy systems. In this chapter, we will explore the common applications of AI in energy systems, including demand response and predictive maintenance.
 

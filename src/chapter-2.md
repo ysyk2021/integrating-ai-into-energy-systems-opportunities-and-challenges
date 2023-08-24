@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and Its Applications in Energy Systems
-==================================================================
 
 In this chapter, we will explore what AI is and how it works in the context of energy systems. We will also look at common applications of AI in energy systems, including demand response and predictive maintenance, and provide examples of successful implementation of AI in energy systems.
 

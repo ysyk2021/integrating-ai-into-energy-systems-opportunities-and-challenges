@@ -1,4 +1,3 @@
-# What is AI and how does it work?
 
 Artificial Intelligence (AI) is becoming an increasingly important tool for optimizing energy systems. In this chapter, we will explore the basics of AI and how it works, as well as its applications in energy systems.
 
