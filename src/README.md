@@ -8,3 +8,7 @@ By understanding the potential of AI in the energy industry and implementing the
 We hope that this book will serve as a valuable resource for those interested in leveraging the power of AI in the energy industry. Whether you are a business owner, energy manager, or technology professional, this book will provide you with the insights and tools needed to succeed in the rapidly evolving landscape of AI-powered energy systems.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
