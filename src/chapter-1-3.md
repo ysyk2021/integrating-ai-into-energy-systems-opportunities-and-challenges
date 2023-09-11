@@ -1,5 +1,4 @@
-Chapter: What You Can Expect from This Book
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Welcome to "Integrating AI into Energy Systems: Opportunities and Challenges." In this book, we will explore the various ways in which Artificial Intelligence (AI) can be integrated into energy systems to unlock numerous opportunities while addressing the associated challenges.
 

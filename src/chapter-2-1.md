@@ -1,5 +1,4 @@
-Chapter: What is AI and How Does it Work?
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn like humans. AI technologies allow machines to process and analyze vast amounts of data, recognize patterns, and make decisions based on that data.
 

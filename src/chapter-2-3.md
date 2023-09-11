@@ -1,5 +1,4 @@
-Chapter: Examples of Successful Implementation of AI in Energy Systems
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of Artificial Intelligence (AI) in energy systems has shown immense potential for improving system performance, optimizing resource use, and promoting sustainability. This chapter highlights some successful examples of AI implementation in energy systems.
 

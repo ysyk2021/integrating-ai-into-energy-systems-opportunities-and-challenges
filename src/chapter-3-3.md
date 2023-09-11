@@ -1,5 +1,4 @@
-Chapter: Setting Realistic Goals and Tracking Progress on Your Energy Optimization Journey
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As energy systems become more complex and interconnected, it is essential to set realistic goals and track progress towards achieving them. Machine learning (ML) can play a crucial role in setting performance targets, monitoring energy consumption, and identifying areas for improvement. This chapter explores how ML-powered tools can help individuals and organizations set realistic goals and track progress on their energy optimization journey.
 

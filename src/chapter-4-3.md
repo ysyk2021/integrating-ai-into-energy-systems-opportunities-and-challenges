@@ -1,5 +1,4 @@
-Chapter: Machine Learning-Powered Virtual Assistants for Energy System Optimization
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of machine learning-powered virtual assistants for energy system optimization. With the increasing complexity and challenges in the energy sector, intelligent technologies like machine learning offer opportunities to enhance efficiency, optimize resource allocation, and improve decision-making processes. This chapter delves into the benefits, challenges, and potential use cases of using machine learning-powered virtual assistants in energy systems.
 

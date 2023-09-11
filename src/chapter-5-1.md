@@ -1,5 +1,4 @@
-Chapter: Using Machine Learning-Powered Tools for Renewable Energy Integration and Storage
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Renewable energy sources, such as solar and wind, play a vital role in transitioning towards a sustainable and decarbonized energy system. However, integrating these intermittent energy sources into the grid and effectively managing energy storage present significant challenges. This chapter explores how machine learning (ML)-powered tools can facilitate the integration and storage of renewable energy, enabling a more reliable and efficient energy system.
 

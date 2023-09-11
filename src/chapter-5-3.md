@@ -1,5 +1,4 @@
-Chapter: Personalizing Sustainability Efforts with Machine Learning
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the global focus on sustainability intensifies, there is a growing recognition that personalized approaches are essential to drive meaningful change in energy consumption and promote sustainable practices. This chapter explores how machine learning (ML) can be leveraged to personalize sustainability efforts and enable individuals to make more informed and impactful choices.
 
